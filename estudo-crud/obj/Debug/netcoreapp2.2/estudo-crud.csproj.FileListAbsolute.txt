@@ -1,0 +1,6 @@
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.csprojAssemblyReference.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.csproj.CoreCompileInputs.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.RazorAssemblyInfo.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.RazorAssemblyInfo.cs
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.AssemblyInfoInputs.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.2/estudo-crud.AssemblyInfo.cs

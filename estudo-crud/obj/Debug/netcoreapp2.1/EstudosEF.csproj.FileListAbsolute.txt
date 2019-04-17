@@ -1,0 +1,56 @@
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/bin/Debug/netcoreapp2.1/EstudosEF.deps.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.dev.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/bin/Debug/netcoreapp2.1/EstudosEF.dll
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/bin/Debug/netcoreapp2.1/EstudosEF.pdb
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.csprojAssemblyReference.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.csproj.CoreCompileInputs.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cs
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfoInputs.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfo.cs
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.RazorTargetAssemblyInfo.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.dll
+/home/fabricio/OneDrive/PROJETO PREFEITURA/ESTUDOS/EstudosEF/obj/Debug/netcoreapp2.1/EstudosEF.pdb
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.deps.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.dev.json
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.dll
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.pdb
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.csprojAssemblyReference.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.csproj.CoreCompileInputs.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cs
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfoInputs.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfo.cs
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorTargetAssemblyInfo.cache
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.dll
+/home/fabricio/OneDrive/PROJETO PREFEITURA/SISTEMA-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.pdb
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.deps.json
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.json
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.dev.json
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.dll
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/bin/Debug/netcoreapp2.1/EstudosEF.pdb
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.csprojAssemblyReference.cache
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.csproj.CoreCompileInputs.cache
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cache
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cs
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfoInputs.cache
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfo.cs
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.RazorTargetAssemblyInfo.cache
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.dll
+C:/Users/fabricio.araujo/Documents/PROJETO-PREFEITURA/modelo-back/obj/Debug/netcoreapp2.1/EstudosEF.pdb
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/bin/Debug/netcoreapp2.1/EstudosEF.deps.json
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.json
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/bin/Debug/netcoreapp2.1/EstudosEF.runtimeconfig.dev.json
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/bin/Debug/netcoreapp2.1/EstudosEF.dll
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/bin/Debug/netcoreapp2.1/EstudosEF.pdb
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.csprojAssemblyReference.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.csproj.CoreCompileInputs.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.RazorAssemblyInfo.cs
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfoInputs.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.AssemblyInfo.cs
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.RazorTargetAssemblyInfo.cache
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.dll
+/home/rhuan/Documentos/projetos-prefeitura/estudo-crud/obj/Debug/netcoreapp2.1/EstudosEF.pdb
